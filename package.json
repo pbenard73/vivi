@@ -2,6 +2,7 @@
   "name": "vivi",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://pbenard73.github.io/vivi/",
   "dependencies": {
     "@compai/font-recursive": "^0.0.4",
     "@react-three/drei": "^9.28.3",
