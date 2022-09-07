@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@compai/font-recursive": "^0.0.4",
     "@react-three/drei": "^9.28.3",
     "@react-three/fiber": "^8.7.2",
     "@react-three/xr": "^5.0.0",
